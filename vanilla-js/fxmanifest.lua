@@ -3,7 +3,7 @@ game "gta5"
 
 title "LB Phone - App Template"
 description "A template for creating apps for the LB Phone."
-author "Breze & Loaf"
+author "Crasy"
 
 client_script "client.lua"
 
